@@ -61,10 +61,8 @@ Fui el **[Desarrollador Full-Stack /// Full-Stack Developer]** principal y unico
 ## Demostración Visual
 
 
-### Vista de la pagina principal (modo oscuro "configurable")
+## Vista de la página principal (modo oscuro configurado)
+![Vista Principal Oscura](./AgendaTurnos.jpg)
 
-!(AgendaTurnos.jpg)
-
-### Vista del cierre (modo claro "configurable")
-
-!(AgendaTurnosCierre.jpg)
+### Vista del cierre de caja (modo claro configurado)
+![Vista Cierre Clara](./AgendaTurnosCierre.jpg)
