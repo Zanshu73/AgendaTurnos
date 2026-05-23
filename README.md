@@ -61,8 +61,10 @@ Fui el **[Desarrollador Full-Stack /// Full-Stack Developer]** principal y unico
 ## Demostración Visual
 
 
-### Vista del Dashboard Principal
-![Dashboard Preview](enlace-a-tu-imagen.jpg)
+### Vista de la pagina principal (modo oscuro "configurable")
 
-### Vista en Dispositivos Móviles
-![Mobile View](enlace-a-tu-imagen-mobile.jpg)
+!(AgendaTurnos.jpg)
+
+### Vista del cierre (modo claro "configurable")
+
+!(AgendaTurnosCierre.jpg)
